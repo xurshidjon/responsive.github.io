@@ -1,2 +1,0 @@
-# responsive.github.io
-sdad
